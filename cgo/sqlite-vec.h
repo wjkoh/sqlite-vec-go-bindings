@@ -1,7 +1,7 @@
 #ifndef SQLITE_VEC_H
 #define SQLITE_VEC_H
 
-#include "sqlite3ext.h"
+#include <sqlite3ext.h>
 
 #ifdef SQLITE_VEC_STATIC
   #define SQLITE_VEC_API

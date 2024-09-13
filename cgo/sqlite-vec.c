@@ -15,7 +15,7 @@
 #include <stdio.h>
 #endif
 
-#include "sqlite3ext.h"
+#include <sqlite3ext.h>
 SQLITE_EXTENSION_INIT1
 
 #ifndef UINT32_TYPE
